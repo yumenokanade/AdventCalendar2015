@@ -1,4 +1,4 @@
-## この記事はKogakuin Univ AdventCalender 2日目 です。
+#### この記事は[Kogakuin Univ AdventCalender 2日目](http://www.adventar.org/calendars/963) です。
 
 以前、ドミニオン(ニトロプラス版)を友人とやっていたときにあるカードのせいで,
 やる気がなくなる事態が発生しました。  
