@@ -4,7 +4,7 @@
 こういうキャラです。
 
 簡単にコーガくんの設定を見てみましょう  
-(https://pbs.twimg.com/profile_images/3505488546/f44801aa1ef3a7776125b9f23684d5b7_400x400.png "コーガくん")
+![コーガくん](https://pbs.twimg.com/profile_images/3505488546/f44801aa1ef3a7776125b9f23684d5b7_400x400.png)
 ### 設定
 - 誕生日：10.31
 - ご職業：KBSのリポーター
