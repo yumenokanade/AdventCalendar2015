@@ -1,6 +1,4 @@
-# デスクトップマスコットを作成した  
-
-この記事は [Kogakuin Univ Advent Calendar 2015](http://www.adventar.org/calendars/963) 6日目です。  
+この記事は [Kogakuin Univ Advent Calendar 2015](http://www.adventar.org/calendars/963) 7日目です。  
 体を壊してしまったので結構辛いです。
 - - -  
 ### はじめに
